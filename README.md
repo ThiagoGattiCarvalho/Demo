@@ -4,9 +4,7 @@ After years working as a Supply Chain consultant implementing industry leading s
 
 IBP - Integrated Business Planning is the app's focus, because it synchronizes Finance and Supply Chain algorithms into a single set of numbers. This way, planning is faster and easier, which is my objective, rather than just building a "software".
 
-With this business case, I expect to briefly demonstrate my Supply Chain and Finance  knowledge, digital competence and strategic thinking. 
-
-I hope you enjoy the reading and consider me for a Supply Chain Planning position in your company. 
+With this demo, I expect to briefly demonstrate my digital competence. 
 
 
 
