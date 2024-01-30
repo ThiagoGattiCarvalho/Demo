@@ -27,6 +27,7 @@ with home1:
     fluent English and Portuguese, average Italian, basic German.
     EU family and German driver's license.
     \nhttps://www.linkedin.com/in/thiagocscp/
+    \nhttps://drive.google.com/drive/folders/1_vSpKFRZIZrkwfyEXx1NUwuPQR5V6vjy?usp=sharing
     """)
 
     st.subheader("Hard Skills")
