@@ -9,6 +9,7 @@ With this business case, I expect to briefly demonstrate my Supply Chain and Fin
 I hope you enjoy the reading and consider me for a Supply Chain Planning position in your company. 
 
 
+
 ABOUT ME
 
 Dedicated and results-driven Supply Chain professional with easy transit between areas and a proven track record of driving business improvements.
