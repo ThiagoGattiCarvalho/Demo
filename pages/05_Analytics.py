@@ -2,7 +2,7 @@ import ntplib
 from time import ctime
 import streamlit as st
 import datetime
-valid = datetime.datetime(2024, 6, 30, 12, 00, 00)
+valid = datetime.datetime(2024, 12, 30, 12, 00, 00)
 ntp_client = ntplib.NTPClient()
 
 try:
