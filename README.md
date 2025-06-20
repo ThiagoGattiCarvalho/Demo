@@ -1,21 +1,19 @@
-ABOUT THIS DEMO
+Welcome!
 
-After years working as a Supply Chain consultant implementing industry leading software and creating Excel solutions for Finance and S&OP, I have decided to integrate my knowledge and experience into a single Python application. 
+Hi,
 
-IBP - Integrated Business Planning is the app's focus, because it synchronizes Finance and Supply Chain algorithms into a single set of numbers. This way, planning is faster and easier, which is my objective, rather than just building a "software".
+I am Thiago Gatti and I do software.
 
-With this demo, I expect to briefly demonstrate my digital competence. 
+Allow me to introduce myself and tell you my story, and about the challenges I face as a self-taught person.
 
+For some weird reason, I was born with this uncontrollable curiosity and a need to be self-taught about almost everything. I learned English alone as a teenager by reading a small dictionary for years, I learned coding by moding a videogame, I created a production master scheduling methodology, just by following business needs and algorithmic constraints, just to realize a couple of years later that, it was exactly the same method used by APICS, which still is the GMP today. And, I came up with an idea of transforming data before forecasting, in 2014, that won me a forecasting competition in one of the top 10 Brazilian companies while I was a consultant for them, with Excel competing against Oracle's Crystal Ball and a whole team. I realized that, the very same practice I used is widely used nowadays by data scientists. This time, however, the client offered to acquire my tool, which opened my eyes to the fact that I could compete against big players, because they advertise on many features but companies implement only part of it, and not always they know how to pick the best pieces.
 
+Although those experiences brought me self-confidence and boosted my dedication to start producing software, they didn´t secure a stable source of income. In 2015, I faced the difficult decision to choose between staying in the decelerating, and political unstable, Brazilian economy or to starting a new life in Europe. On occasion, I have passed selection for the MA in Videogames Design by the CGL (TH Köln), also studying alone. I opted for the second and, a long story short, I ended up working as a data analyst for TH Köln, later on as a data analyst, and then as a manager for the personal care industry. Many personal factors, not worth mentioning, forced me to come back to Brazil during the pandemic outbreak in 2021.
 
-ABOUT ME
+Can you guess what I did then? -Exactly! I started learning Python alone to convert everything I did before in Excel to Python and to measure its results against my previous real life deliverables. It was a convenient opportunity to build battle-tested software, which I did with excellent results. It was only then, that I noticed that, my approach was worth and made an incredible design idea, one that would allow anyone to incorporate business-domain knowledge into machine learning and artificial intelligence because I have layered a foundation, a structured way thought to enable the generalization of AI applications, from supply chain to P&L, to penguins, flowers, real estate, and even Titanic survival classifications, estimations and simulations. I have successfully applied the new concept during a merger I have been through with a technology provider, on clients in both luxury and fashion retail.
 
-Dedicated and results-driven Supply Chain professional with easy transit between areas and a proven track record of driving business improvements.
+Although the merger didn´t move forward, it let it clear to me that I am not able to do all the enterprise work alone, and that I should consider coming back to Europe and look for a job. However, this time, after over more than 100 resumes I was not called for a single interview. I felt so depressed and started thinking about things like: How is possible for an AI specialist to be unemployed? How is it possible that he is willing to work for starter fees? Why is he claiming to be an AI data engineer if he has no certifications or a PhD? We are not sure about this guy, so let him and move to the next candidate. 
 
-Recognized for integrating Finance and Supply Chain models to establish seamless Integrated Business Planning (IBP) and Autonomous Planning & Decision systems for substantial ROI improvement across various industries.
-
-Adept at combining strategic vision with hands-on problem-solving to drive innovation and operational excellence, leveraging a unique blend of technical proficiency and managerial acumen to elevate supply chain planning on forward-looking organizations.
-
+**Rejection was killing me and I wish I had a chance to talk. I would answer something like: Because I need to provide for my 6 year-old son, a demo like this one tells more about my ML/AI skills than a certification. I am different than most people, I am self-taught in a pro way. Please, talk to me!
+**
 https://www.linkedin.com/in/thiagocscp/
-
-https://drive.google.com/drive/folders/1_vSpKFRZIZrkwfyEXx1NUwuPQR5V6vjy?usp=sharing
