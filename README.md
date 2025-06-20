@@ -14,6 +14,6 @@ Can you guess what I did then? -Exactly! I started learning Python alone to conv
 
 Although the merger didn´t move forward, it let it clear to me that I am not able to do all the enterprise work alone, and that I should consider coming back to Europe and look for a job. However, this time, after over more than 100 resumes I was not called for a single interview. I felt so depressed and started thinking about things like: How is possible for an AI specialist to be unemployed? How is it possible that he is willing to work for starter fees? Why is he claiming to be an AI data engineer if he has no certifications or a PhD? We are not sure about this guy, so let him and move to the next candidate. 
 
-**Rejection was killing me and I wish I had a chance to talk. I would answer something like: Because I need to provide for my 6 year-old son, a demo like this one tells more about my ML/AI skills than a certification. I am different than most people, I am self-taught in a pro way. Please, talk to me!
-**
+>>> Rejection was killing me and I wish I had a chance to talk. I would answer something like: Because I need to provide for my 6 year-old son, a demo like this one tells more about my ML/AI skills than a certification. I am different than most people, I am self-taught in a pro way. Please, talk to me!<<<
+
 https://www.linkedin.com/in/thiagocscp/
